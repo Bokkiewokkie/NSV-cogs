@@ -1,0 +1,10 @@
+{
+    "author" : ["Bokkiewokkie"],
+    "install_msg" : "Webp blocker installed successfully.",
+    "name" : "Webp file blocker",
+    "short" : "Webpblock",
+    "description" : "Stops members from sending webp files when active.",
+    "permissions" : ["Manage Messages"],
+    "tags" : ["Utility", "Administration"],
+    "end_user_data_statement": "This cog does not persistently store any data or metadata about users."
+}

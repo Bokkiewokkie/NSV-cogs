@@ -1,0 +1,8 @@
+{
+    "author" : ["Bokkiewokkie"],
+    "install_msg" : "NSV13 management & misc cogs installed successfully.",
+    "name" : "NSVcogs",
+    "short" : "NSV13 Cogs",
+    "description" : "Cogs used by the NSV13 server. Currently only includes a webp remover.",
+    "tags" : ["Utility", "Administration"]
+}
